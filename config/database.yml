@@ -3,6 +3,9 @@ development:
   database: my_profile_development
   pool: 5
   timeout: 5000
+  host: localhost
+  username: profileapp
+  password: ror2ror
 test:
   adapter: postgresql
   database: my_profile_test
