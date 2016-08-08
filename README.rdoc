@@ -1,0 +1,3 @@
+== README
+
+This is a basic online profile page for RoRBerlin class. It has the basic elements that a profile page should have plus bootstrap3 css/js files. Font Awesome and Animatecss have also been added 
